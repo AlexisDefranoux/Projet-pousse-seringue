@@ -7,8 +7,8 @@ Une pousse-seringue est une petite pompe à perfusion qui administre progressive
 
 ## Matériel médical
 
-- Serringue
-- Support à serringue imprimé à l'aide d'une imprimante 3D
+- Seringue
+- Support à seringue imprimé à l'aide d'une imprimante 3D
 
 ![](https://i.imgur.com/U1E4ZWI.png)
 
