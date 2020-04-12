@@ -3,7 +3,7 @@ Une pousse-seringue est une petite pompe à perfusion qui administre progressive
 
 ## Architecture matérielle
 
-![](https://i.imgur.com/LDArQLh.jpg)
+![](https://i.imgur.com/Q2w7f9C.jpg)
 
 ## Matériel médical
 
